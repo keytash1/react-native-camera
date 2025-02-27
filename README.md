@@ -154,3 +154,4 @@ Tidelift will coordinate the fix and disclosure.
 3 b1
 4 b1
 5 b1
+6 b1
