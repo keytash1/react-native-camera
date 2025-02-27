@@ -149,6 +149,12 @@ To report a security vulnerability, please use the
 [Tidelift security contact](https://tidelift.com/security).
 
 Tidelift will coordinate the fix and disclosure.
+<<<<<<< HEAD
 1 b2
 2 b2
 3 b2
+=======
+1 b1
+2 b1
+3 b1
+>>>>>>> branch1
